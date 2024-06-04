@@ -1,7 +1,7 @@
 # ASLHandGestureDataset2011
 Image collection for ASL hand gestures
 
-This dataset was create to facilitate gesture recognition researcha and machine learning research. 
+This dataset was created to facilitate gesture recognition research and machine learning research. 
 
 Please, cite the following article if you use the images from this repository:
 
