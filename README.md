@@ -23,3 +23,6 @@ where:
 • ILL is the illumination conditions. ILL can be bot (bottom), top, left, right or diff (diffuse).
 
 • R is the repetition, usually from 1 to 5.
+
+
+The latest version of this dataset is Feb/2012.
