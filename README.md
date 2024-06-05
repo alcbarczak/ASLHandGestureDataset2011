@@ -26,3 +26,5 @@ where:
 
 
 The latest version of this dataset is Feb/2012.
+
+There are 14 tar.gz files to be downloaded, containing 2515 cropped images (PNG files).
